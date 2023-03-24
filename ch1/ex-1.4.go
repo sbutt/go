@@ -1,5 +1,6 @@
 // Dup2 prints the count and text of lines that appear more than once
 // in the named input files. It reads from stdin or from a list of named files.
+// updated to see if I get warning with github.com
 package main
 
 import (
